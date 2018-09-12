@@ -12,6 +12,7 @@
     "body-parser": "^1.18.3",
     "csv": "^3.1.0",
     "csvtojson": "^2.0.8",
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "mongojs": "^2.6.0"
   }
 }
