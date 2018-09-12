@@ -11,10 +11,12 @@ The request array can be any size.
 
 Expected Result:
 ```
-[ { website: '100percentfedup.com',
+[ { _id: '5b996dd1030e4935f7ae0082',
+    website: '100percentfedup.com',
     type: [ 'bias', '', '' ],
     sourceNotes: '' },
-  { website: '365usanews.com',
+  { _id: '5b996dd1030e4935f7ae0083',
+    website: '365usanews.com',
     type: [ 'bias', 'conspiracy', '' ],
     sourceNotes: '' } ]
 
